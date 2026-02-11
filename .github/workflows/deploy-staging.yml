@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <tildeeb> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: <tildeeb>-azure-ttt
-  AZURE_WEBAPP_NAME: <tildeeb>-ttt-app
+  DOCKER_IMAGE_NAME: tildeeb-azure-ttt
+  AZURE_WEBAPP_NAME: tildeeb-ttt-app
   ###############################################
 
 jobs:
